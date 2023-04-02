@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Ali Bouzid 's profile!👋</h1>
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72A41&size=30&width=600&lines=Always+Student;Mathematician.+Theoretical+Physicist.+Scientist.+;Researcher+in+quantum+computing;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72A41&size=30&width=600&lines=Researcher+in+quantum+computing;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 <h2> Hi, I'm Ali bouzid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
