@@ -5,7 +5,7 @@
 
 
 <h2> Hi, I'm Ali bouzid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/Arfaouim/Youtube/blob/main/YouTube%20Channel%20Art.png" width="550" height="350">
+<img align='right' src="https://assets.website-files.com/5e2f01f286f417acc730dafc/604f4ee65807d858aa555eb4_de%CC%81veloppeur%20web-p-1080.jpeg" width="550" height="350">
 <p><em> Student in <a href="http://www.enetcom.rnu.tn">National School of Electronics and Telecommunications of Sfax.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" ></br>
 </em></p>
 
@@ -20,17 +20,13 @@
 	
 <h4>💬 Sometimes I like to write things here...</h4>
 
-[![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arfaouim-quantumland.blogspot.com/) 
+[![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]() 
 </p>
 <p align='right'>
 	
 <h4> 🤵 MyPortfolio & Websits</h4>
 
-[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](http://arfaoui.pythonanywhere.com/)  
-[![Academic.tn](https://img.shields.io/badge/-Academic.tn-FF2222?)](https://academic.tn/) 
-[![Graph2d](https://img.shields.io/badge/-Graph2d-FF2222?)](https://graph2d.herokuapp.com/) 
-[![Diarydo](https://img.shields.io/badge/-Diarydo-FF2222?)](https://diarydo.herokuapp.com/) 
-[![ProjectList](https://img.shields.io/badge/-ProjectList-FF2222?)](https://workspace101.herokuapp.com/) 
+[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](https://ouledbouzidali.netlify.app/ )  
 </p>
 
 ## 🛠️ My favorite tools
@@ -119,50 +115,10 @@
 </p>
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
-
-```golang
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A Science lover -amateurChess player -gearAddict-amateurMusician-gamer-coder-programmer-catLover-Boxer",
-		"- 🔭 I’m currently working on":      " A full time PHD student in Qunatum imformation --- Sometimes a software Developer --- & as a Part Time a Teacher",
-		"- 🌱 I’m currently learning":        "Golang, Mathematica, Quantum open Sys,  --- Sharpening my python Skills to optimise my scripts (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Quantum solid state related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, classic music, chess, SQL, Software Design & Architecture, Web-Dev, Quantum physics and coffee",
-		"- 📫 How to reach me:":              "https://github.com/Arfaouim #you-can-reach-me-there",
-	}
-}
-```
-<h2 align="center">You can reach me at :alien:</h2>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaouim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Arfaoui's github stats](https://github-readme-stats.vercel.app/api?username=Arfaouim&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Arfaouim)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Arfaouim}/count.svg)
 <br>
-⭐️ From [@Arfaouim](https://github.com/Arfaouim)  
+⭐️ From [@alibouzi](https://github.com/alibouzi)  
 
 <!--
 **Arfaouim/Arfaouim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
